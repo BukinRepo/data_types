@@ -1,0 +1,32 @@
+{
+	"student":{
+		"school": "robot_dreams",
+		"course": "QA Automation",
+		"lessonsPerWeek": ["Tuesday", "Thursday"],
+		"lessonsStartTime": "19:00",
+		"studentFullName":{
+			"firstName": "Dmytro",
+			"lastName": "Bukin"
+		},
+		"teacherFullName":{
+			"firstName": "Oleksandr",
+			"lastName": "Podolyako"
+		},
+		"paymentInformation":{ 
+			"contractTrainig":{
+				"isContract": true,
+				"paid": true,
+				"sum": "550"
+			},
+			"budgetaryTraining":{
+				"isBudgetaryTraining": false,
+				"paid": false,
+				"sum": null
+			},
+			"paymentTransaction": "123456789897654321"
+		},
+		"overallLessons": 44,
+		"completedLessons": 4,
+		"currentOverallStudentVisiting": 3.7
+	}
+}
