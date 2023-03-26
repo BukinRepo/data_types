@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<student>
+		<school>robot_dreams</school>
+		<course>QA Automation</course>
+		<lessonsPerWeek>Tuesday</lessonsPerWeek>
+		<lessonsPerWeek>Thursday</lessonsPerWeek>
+		<lessonsStartTime>19:00</lessonsStartTime>
+		<studentFullName>
+			<firstName>Dmytro</firstName>
+			<lastName>Bukin</lastName>
+		</studentFullName>
+		<teacherFullName>
+			<firstName>Oleksandr</firstName>
+			<lastName>Podolyako</lastName>
+		</teacherFullName>
+		<paymentInformation>
+			<contractTrainig>
+				<isContract>true</isContract>
+				<paid>true</paid>
+				<sum>550</sum>
+			</contractTrainig>
+			<budgetaryTraining>
+				<isBudgetaryTraining>false</isBudgetaryTraining>
+				<paid>false</paid>
+				<sum />
+			</budgetaryTraining>
+			<paymentTransaction>123456789897654321</paymentTransaction>
+		</paymentInformation>
+		<overallLessons>44</overallLessons>
+		<completedLessons>4</completedLessons>
+		<currentOverallStudentVisiting>3.7</currentOverallStudentVisiting>
+	</student>
+</root>
